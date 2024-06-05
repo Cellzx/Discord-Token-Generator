@@ -1,5 +1,4 @@
 {
-  
   "dependencies": {
     "@cliqz/adblocker-puppeteer": "^1.23.4",
     "colors": "^1.4.0",
