@@ -1,4 +1,3 @@
-
 const setTitle = require("node-bash-title");
 const fs = require("fs");
 const prompt = require("prompt-sync")();
