@@ -10,7 +10,7 @@ const { uniqueNamesGenerator, animals } = require("unique-names-generator");
 const { PuppeteerBlocker } = require("@cliqz/adblocker-puppeteer");
 const { fetch } = require("cross-fetch");
 
-setTitle("Cyber & Woxy Token Generator");
+setTitle("Cellzx Token Generator");
 
 async function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
