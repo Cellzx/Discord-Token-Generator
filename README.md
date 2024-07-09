@@ -1,5 +1,5 @@
 
-# Discord Token Generator:
+# Discord Token Generator: User Guide
 
 # Overview
 This guide will help you set up and use the recently tested and fully functional Discord Token Generator.
