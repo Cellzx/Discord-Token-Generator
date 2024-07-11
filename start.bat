@@ -1,6 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
+
 :: Clear the console
 cls
 
