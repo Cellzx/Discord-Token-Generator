@@ -10,4 +10,4 @@ Install Required Modules: Ensure that all necessary modules are installed. This 
 
 # Output
 
-After successful verification, the generated tokens will be automatically saved to the tokens.txt file
+After successful verification, the generated tokens will be automatically saved to the tokens.txt file.
